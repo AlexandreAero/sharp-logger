@@ -10,10 +10,8 @@ class Program
         logger.Log("Let's ignore that 😴", LogLevel.WARNING);
         logger.Log("🚨 Red alert", LogLevel.ERROR);
         logger.Log("Oh no 😩", LogLevel.FATAL);
-
         logger.Log("I can do more, {0} + {1} = {2}", LogLevel.INFO, "🌱", "💦", "🌽");
-
-        // Close the logger
+        
         logger.Close();
 
         Console.WriteLine("Logging complete. Press any key to exit.");
