@@ -1,4 +1,4 @@
-# sharp-logger
+<h1 align="center">sharp-logger</h1>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/alexandreaero/sharp-logger)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/alexandreaero/sharp-logger)
