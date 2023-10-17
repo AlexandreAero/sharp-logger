@@ -4,7 +4,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/alexandreaero/sharp-logger)
 ![Lines of code](https://img.shields.io/tokei/lines/github/alexandreaero/sharp-logger)
 
-### A complete log system
+### A complete log system.
 
 ## Screenshot
 <img src="https://github.com/AlexandreAero/sharp-logger/assets/66020831/950b138c-74ab-46f9-9144-3d82f9bf9785" width="780" height="220">
